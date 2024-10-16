@@ -2,4 +2,4 @@ Link Github: https://github.com/rasydsholih
 Link LKPD PHP: https://github.com/Rasydsholih/speed-test-part1-php
 Link LKPD JavaScript: https://github.com/Rasydsholih/speed-test-HTML-CSS-JS
 Link Project CRUD Laravel: -
-Link Trello: nyusul
+Link Trello: https://trello.com/invite/b/66fa0bd5c2ff246adf9e8a7f/ATTIa4ecc9edae77129dfd37e00a94f6638cAA14E7FA/namaproject
